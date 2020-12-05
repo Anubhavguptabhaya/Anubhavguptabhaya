@@ -1,6 +1,6 @@
 ### Hi there, I'm Anubhav 👋
 
-### I'm a Web Developer, Technology eenthusiast and an Open source fan!
+### I'm a Web Developer, Technology enthusiast and an Open source fan!
 
 Here are some ideas to get you started:
 
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://open.spotify.com/search/young%20rich" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 -->
