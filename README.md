@@ -1,4 +1,4 @@
-### ### Hi there, I'm Anubhav 👋
+### Hi there, I'm Anubhav 👋
 
 ### I'm a Web Developer, Technology eenthusiast and an Open source fan!
 
