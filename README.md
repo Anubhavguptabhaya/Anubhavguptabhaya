@@ -1,8 +1,6 @@
-### Hi there, I'm Anubhav 👋
+## Hi there, I'm Anubhav 👋
 
 ### I'm a Web Developer, Technology enthusiast and an Open source fan!
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: Full Stack Development
 - 🌱 I’m currently learning: ReactJs and VueJs
