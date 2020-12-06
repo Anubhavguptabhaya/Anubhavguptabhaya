@@ -7,5 +7,4 @@
 - 💬 Ask me about anything related to: Javascript/AJAX/JQuery/ReactJs/Android Studio/Python
 - 📫 Reach me at: anubhavguptabhaya@gmail.com
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and travel
 
