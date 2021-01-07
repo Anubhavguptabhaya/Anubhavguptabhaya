@@ -3,8 +3,8 @@
 ### I'm a Web Developer, Technology enthusiast and Open source fan!
 
 - 🔭 I’m currently working on: Full Stack Development
-- 🌱 I’m currently learning: ReactJs and VueJs
-- 💬 Ask me about anything related to: Javascript/AJAX/JQuery/ReactJs/Android Studio/Python
+- 🌱 I’m currently learning: c# using .Net framework
+- 💬 Ask me about anything related to: Javascript/JQuery/ReactJs/Android Studio
 - 📫 Reach me at: anubhavguptabhaya@gmail.com
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
