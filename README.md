@@ -1,6 +1,6 @@
 ## Hi there, I'm Anubhav 👋
 
-### I'm a Web Developer, Technology enthusiast and Open source fan!
+### I'm a Web Developer, Technology Enthusiast and Open source fan!
 
 - 🔭 I’m currently working on: Full Stack Development
 - 🌱 I’m currently learning: c# using .Net framework
